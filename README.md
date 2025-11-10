@@ -24,6 +24,12 @@ To activate this Flox environment and access all installed tools:
 flox activate
 ```
 
+Or activate remotely without cloning the repository:
+
+```bash
+flox activate -r 8BitTacoSupreme/claude-code-demo
+```
+
 This will automatically make available:
 - `claude-code` - The Claude Code CLI
 - Flox MCP server for enhanced integration
