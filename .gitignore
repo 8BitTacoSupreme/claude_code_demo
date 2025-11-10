@@ -1,0 +1,9 @@
+# Flox runtime directories
+.flox/cache/
+.flox/run/
+
+# Common temporary files
+*.swp
+*.swo
+*~
+.DS_Store
